@@ -1,0 +1,97 @@
+.head1 {
+    text-align: right;
+    color: white;
+    font-family: Arial;
+}
+
+p, li {
+    color: white;
+    font-family: Arial;
+}
+
+.list1, .s3 {
+    color: red;
+    font-family: Arial;
+}
+
+.list2 {
+    color: violet;
+    font-family: Arial;
+}
+
+.par1 {
+    color: red;
+    text-decoration: underline;
+}
+
+.head2 {
+    color: red;
+    text-align: center;
+    font-family: Arial;
+}
+
+.par2 {
+    text-align: center;
+    font-family: Arial;
+}
+
+.u1, .s2, .head4 {
+    color: yellow;
+    font-family: Arial;
+}
+
+.s1, .e1 {
+    color:blue;
+    font-family: Arial;
+}
+
+.head3 {
+    color: white;
+    border: 1px solid red;
+    width: 500px;
+    height: 60px;
+    border-bottom-color: black;
+    border-right-color: black;
+    background-color: black;
+    font-family: Arial;
+}
+
+.par3 {
+    text-align: right;
+    font-family: Arial;
+}
+
+.s4 {
+    background-color: yellow;
+    color: black;
+    font-family: Arial;
+}
+
+.par4 {
+    background-color: black;
+    border: 1px solid black;
+    border-left-color: red;
+    border-right-color: yellow;
+    height: 75px;
+    padding: 20px;
+    font-family: Arial;
+}
+
+.head5 {
+    color: yellow;
+    border: 2px solid #16365d;
+    border-bottom-color: yellow;
+    width: 300px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.par5 {
+    color: white;
+    background-color: red;
+    font-family: Arial;
+}
+
+body {
+    background-color: #16365d;
+}
