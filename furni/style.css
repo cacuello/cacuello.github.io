@@ -1,0 +1,102 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+.bg-accent {
+  background-color: #3b5d50;
+}
+
+.btn-accent {
+  background-color: #3b5d50;
+  color: #fff;
+  border: none;
+}
+
+.hero {
+  background-color: #3b5d50;
+  min-height: 80vh;
+}
+
+.hero .hero-img {
+  max-width: 90%;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+h2, h5, h6 {
+  color: #000000;
+}
+
+footer a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.btn-warning {
+  background-color: #f9be29;
+  border: none;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+.image-grid {
+  position: relative;
+  height: 500px;
+}
+
+.image-grid .grid1 {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 65%;
+}
+
+.image-grid .grid2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 25%;
+}
+
+.image-grid .grid3 {
+  position: absolute;
+  top: 175px;
+  right: 0;
+  width: 50%;
+}
+
+.why-icon {
+  font-size: 2rem;
+  width: 60px;
+  height: 60px; 
+}
+
+section .post img {
+  background-color: #dce5e4;
+  border-radius: 20px;
+}
+
+.sofa-wrapper {
+  background-color: #f8f9f8;
+  position: relative;
+  height: 180px;
+  overflow: visible;
+}
+
+.sofa-between {
+  position: absolute;
+  bottom: 0;
+  right: 10%;
+  max-width: 300px;
+  z-index: 2;
+  transform: translateY(50%);
+}
