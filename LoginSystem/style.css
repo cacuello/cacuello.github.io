@@ -1,0 +1,85 @@
+body {
+    background-color: #f7f7eb;
+    font-family: tahoma;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #766ecc;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+header div {
+    padding: 20px;
+}
+
+header a {
+    color: white;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #eee;
+}
+
+form {
+    margin: auto;
+    padding: 10px;
+}
+
+.div-signup {
+    margin: auto;
+    max-width: 600px;
+}
+
+.div-table {
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+input {
+    margin: 4px;
+    padding: 8px;
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+}
+
+textarea {
+    margin: 4px;
+    padding: 8px;
+    width: 100%;
+}
